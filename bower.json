@@ -7,7 +7,7 @@
   ],
   "main": [
 	  "./dist/jstat.js",
-	  "./dist/jstat.min.js",
+	  "./dist/jstat.min.js"
   ],
   "license": "MIT",
   "ignore": [
